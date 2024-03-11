@@ -1,0 +1,29 @@
+layer1:
+  P: 128
+  Q: 1
+  C: 4096
+  K: 2048
+  R: 1
+  S: 1
+  stride: 1
+  padding: 1
+layer3:
+  P: 320
+  Q: 1
+  C: 4096
+  K: 3072
+  R: 1
+  S: 1
+  stride: 1
+  padding: 1
+layer_name_dict:
+  layer1: layer1
+  layer2: layer1
+  layer3: layer3
+  layer4: layer1
+  layer5: layer1
+  layer6: layer3
+  layer7: layer3
+  layer8: layer3
+  layer9: layer3
+

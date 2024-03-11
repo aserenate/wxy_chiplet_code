@@ -1,0 +1,525 @@
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14219500798.0	14206858262.0	12642536.0	
+
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14219504510.0	14206858262.0	12646248.0	
+
+
+------------- PRAMA -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	106509697328.0	104356409168.0	2153288160.0	
+
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	208731901134.5	208722924996.0	8976138.5	
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14279901142.0	14246608608.0	33292534.0	
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14266826130.5	14243149249.0	23676881.5	
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14337856775.0	14243149249.0	94707526.0	
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14337856775.0	14243149249.0	94707526.0	
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14418191281.0	14243149249.0	175042032.0	
+
+
+------------- PRAMA -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	14418191281.0	14243149249.0	175042032.0	
+
+
+------------- PRAMA -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	272158098688.0	203342611200.0	68815487488.0	
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	272180832340.0	203352695252.0	68828137088.0	
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	353521910440.7999	284693773352.7999	68828137088.0	
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	301930325064.7999	284693773352.7999	17236551712.0	
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	545953559367.20013	528717007655.20013	17236551712.0	
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	5426418245415.201	5409181693703.201	17236551712.0	
+
+
+------------- PRAMA -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	272647536948.51202	255410985236.51202	17236551712.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	4304054759.800002	4221729148.8000026	82325611.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	60637293303.79991	60591407351.79991	45885952.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	60573665358.43998	60540848727.43998	32816631.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	4306774759.800002	4221729148.8000026	85045611.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	60637539063.79991	60591407351.79991	46131712.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	60573739086.43998	60540848727.43998	32890359.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	65270873901.5	65237983542.5	32890359.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	65274162928.125	65237983542.5	36179385.625	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	65277451964.125	65237983542.5	39468421.625	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	65347822866.0	65292464818.75	55358047.25	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	65384728242.75	65292464818.75	92263424.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	73219824021.00002	73127560597.00002	92263424.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	73173692309.00002	73127560597.00002	46131712.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	5180235963.000001	5095190352.000001	85045611.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	73099431926.60002	73066541567.60002	32890359.0	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	73108641227.12004	73066541567.60002	42099659.52000002	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	5204048734.080004	5095190352.000001	108858382.08	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	73186609188.35995	73127560597.00002	59048591.36000011	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	73302370012.67993	73127560597.00002	174809415.67999998	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	73302370012.67993	73127560597.00002	174809415.67999998	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	5317404967.040002	5095190352.000001	222214615.04000002	
+
+
+------------- PRAMA -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	73152523673.19998	73066541567.60002	85982105.60000007	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+latency :	20164462749.559998	19940408948.600002	224053800.95999998	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	372763479664.6392	284679655680.0002	88083823984.63966	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	372793788825.4402	284693773352.7999	88100015472.64	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	372793788825.4402	284693773352.7999	88100015472.64	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	372793788825.4402	284693773352.7999	88100015472.64	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+latency :	20167479380.519997	19941009103.400005	226470277.11999995	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+latency :	10058969503.700003	9970504551.700003	88464952.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	176747571584.00006	142339827840.0001	34407743744.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+latency :	176760955220.39996	142346886676.39996	34414068544.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet50', 'VGG16']
+latency :	176762199233.7999	142347186753.7999	34415012480.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet50', 'VGG16', 'vit']
+latency :	186679762270.9996	152257163806.9996	34422598464.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'VGG16', 'vit']
+latency :	186676464933.99973	152256037989.99973	34420426944.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'VGG16', 'vit']
+latency :	186676464933.99973	152256037989.99973	34420426944.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'VGG16', 'vit']
+latency :	186676464933.99973	152256037989.99973	34420426944.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'resnet18', 'VGG16']
+latency :	21953117.299999997	10311461.3	11641656.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16', 'resnet18']
+latency :	21953117.3	10311461.300000004	11641656.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet18', 'darknet19', 'VGG16']
+latency :	18655780.3	9185644.3	9470136.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	14692757.7	9485721.700000001	5207036.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	159543699712.00006	142339827840.0001	17203871872.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	169458692891.99966	152250561819.99966	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13676430.375	8469394.375	5207036.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	144293003872.0	127089132000.0	17203871872.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	153146132697.0	135938001625.0	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	159943032778.25	142734901706.25	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	12853985.875	8469394.375	4384591.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	131395624064.0	127089132000.0	4306492064.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	140247631063.5	135938001625.0	4309629438.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	153146132697.0	135938001625.0	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	153146132697.0	135938001625.0	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	153146132697.0	135938001625.0	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	153146132697.0	135938001625.0	17208131072.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	140247631063.5	135938001625.0	4309629438.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	131395624064.0	127089132000.0	4306492064.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	12853985.875	8469394.375	4384591.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13700925.3125	9316333.8125	4384591.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13277455.59375	8892864.09375	4384591.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	137750080664.0	133443588600.0	4306492064.0	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	147044531144.75	142734901706.25	4309629438.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	142966391095.99988	138656761657.50006	4309629438.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13023373.7625	8638782.2625	4384591.5	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	15046281.625	8469394.375	6576887.25	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13292445.025000002	8469394.375	4823050.65	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13073215.450000003	8469394.375	4603821.075	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	131610948667.19998	127089132000.0	4521816667.199999	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	140463112535.42496	135938001625.0	4525110910.424998	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	140678594007.34998	135938001625.0	4740592382.350003	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	143397354039.85022	138656761657.50006	4740592382.350003	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	157585705836.7002	138656761657.50006	18928944179.19996	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+latency :	140894075479.27502	135938001625.0	4956073854.274997	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+latency :	132041597873.60019	127089132000.0	4952465873.600011	
+
+
+------------- PRAMA -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+latency :	13511674.6	8469394.375	5042280.225	
+
+

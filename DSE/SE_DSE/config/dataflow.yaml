@@ -1,0 +1,62 @@
+os_dimension_tag:
+  K:
+    - random_equal
+    - random
+    - both
+    - correlation :
+      - 0
+      - 1
+      - 1
+  P:
+    - random_equal
+    - random
+    - both
+    - correlation :
+      - 1
+      - 0
+      - 1
+  Q:
+    - random_equal
+    - random
+    - temporal
+    - correlation :
+      - 1
+      - 0
+      - 1
+  C:
+    - single
+    - bottom
+    - temporal
+    - correlation :
+      - 1
+      - 1
+      - 0
+  R:
+    - single
+    - bottom
+    - temporal
+    - correlation :
+      - 0
+      - 1
+      - 0
+  S:
+    - single
+    - bottom
+    - temporal
+    - correlation :
+      - 0
+      - 1
+      - 0
+  stride:
+    - None
+  padding:
+    - None
+os_parallel_type:
+  Chiplet:
+    - PP
+    - PK
+    - KK
+  PE:
+    - PP
+    - PK
+    - KK

@@ -1,0 +1,341 @@
+
+
+------------- Planria -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	163175366656.0	
+latency_nop :	[2580480.0, 64424673280.0, 3612672.0, 7225344.0]	
+latency_noc :	[19818086400.0, 98750693376.0, 3909427.2, 7818854.4]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'VGG16']	
+chiplet_best :	[5, 1, 9, 1]	
+
+
+------------- Planria -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	1321521152.0000002	
+latency_nop :	[3612672.0, 7200000.0, 315392.0, 608896.0]	
+latency_noc :	[3909427.2, 15271200.0, 1321205760.0000002, 581767.2]	
+workload_dict :	['resnet18', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[1, 12, 2, 1]	
+
+
+------------- Planria -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	88046993408.0	
+latency_nop :	[42949836800.0, 38655885312.0, 32768.0]	
+latency_noc :	[45097156608.00001, 37325950156.8, 12928.0]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[12, 3, 1]	
+
+
+------------- Planria -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	23072276480.0625	
+latency_nop :	[3604480.0625, 2949120.0, 32768.0]	
+latency_noc :	[23068672000.0, 7066563379.2, 6528.0]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[2, 10, 4]	
+
+
+------------- Planria -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	330616832.00000006	
+latency_nop :	[1069056.0, 7225344.0, 315392.0, 1204864.0]	
+latency_noc :	[2933767.2000000007, 5923915.2, 330301440.00000006, 1140370.8]	
+workload_dict :	['resnet18', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[1, 2, 12, 1]	
+
+
+------------- Planria -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	23072276480.0625	
+latency_nop :	[9664266240.0, 3604480.0625, 921600.0, 1843200.0]	
+latency_noc :	[9331487539.2, 23068672000.0, 1481407.2000000002, 5867534.400000001]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'VGG16']	
+chiplet_best :	[1, 2, 10, 3]	
+
+
+------------- Planria -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	32090554368.0	
+latency_nop :	[9664266240.0, 4128768.0, 1507968.0, 1695744.0]	
+latency_noc :	[9139322880.0, 32086425600.0, 1007280.9228515627, 2916066.5625000005]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'VGG16']	
+chiplet_best :	[3, 2, 3, 8]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	265830793216.64	
+latency_nop :	[219903164416.64, 148435579699.2, 41943.04]	
+latency_noc :	[45927628800.0, 36557291520.0, 12812.5]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[3, 1, 12]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	1346055045.12	
+latency_nop :	[4624220.16, 9216000.0, 519045.12, 1541898.24]	
+latency_noc :	[1942920.0, 15134765.625, 1345536000.0, 1130182.6171875]	
+workload_dict :	['resnet18', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[1, 1, 2, 12]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	265830793216.64	
+latency_nop :	[219903164416.64, 148435579699.2, 41943.04]	
+latency_noc :	[45927628800.0, 36557291520.0, 12812.5]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[12, 3, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	1346055045.12	
+latency_nop :	[336199.68, 9216000.0, 519045.12, 1541898.24]	
+latency_noc :	[123360.0, 15134765.625, 1345536000.0, 1130182.6171875]	
+workload_dict :	['resnet50', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[12, 1, 2, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	304507382661.12	
+latency_nop :	[222651607941.12, 219903164416.64, 4624220.16, 9248440.32]	
+latency_noc :	[81855774720.0, 45927628800.0, 3874500.0, 7749000.0]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'VGG16']	
+chiplet_best :	[2, 12, 1, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	255802343424.0	
+latency_nop :	[173946568704.0, 171799347200.5, 3612672.0, 7225344.0]	
+latency_noc :	[81855774720.0, 45927628800.0, 3874500.0, 7749000.0]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'VGG16']	
+chiplet_best :	[2, 12, 1, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	672970752.0	
+latency_nop :	[131328.0, 3600000.0, 202752.0, 602304.0]	
+latency_noc :	[61680.0, 7567382.8125, 672768000.0, 565091.30859375]	
+workload_dict :	['resnet50', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[1, 12, 1, 2]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	8079773564.84375	
+latency_nop :	[9375872.0, 17685184.0, 5793987.125, 405350320.0]	
+latency_noc :	[5784933.46875, 22913303.942871094, 8073979577.71875, 643480219.5800781]	
+workload_dict :	['resnet50', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[1, 1, 2, 12]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	744848918581.7017	
+latency_nop :	[538298900481.25, 109510656.0, 475712.0]	
+latency_noc :	[206550018100.45166, 165626772480.0, 412962.890625]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[4, 1, 11]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	744848918581.7017	
+latency_nop :	[538298900481.25, 109510656.0, 475712.0]	
+latency_noc :	[206550018100.45166, 165626772480.0, 412962.890625]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[1, 4, 11]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'vit', 'VGG16']
+total_latency :	1107025575936.75	
+latency_nop :	[695805346944.0, 827856961536.75, 267724030464.0, 44429568.0]	
+latency_noc :	[219349303302.75, 279168614400.0, 84398034481.14355, 71389007.8125]	
+workload_dict :	['BERT', 'GNMT', 'vit', 'VGG16']	
+chiplet_best :	[3, 3, 1, 9]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	8079773564.84375	
+latency_nop :	[8780060.0, 17685184.0, 5793987.125, 452191712.0]	
+latency_noc :	[11476132.2265625, 22913303.942871094, 8073979577.71875, 322939067.24609375]	
+workload_dict :	['resnet50', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[2, 1, 1, 12]	
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'resnet18', 'VGG16']
+total_latency :	17927328.6953125	
+latency_nop :	[9375872.0, 11578448.0, 7270356.0, 8244136.0]	
+latency_noc :	[5784933.46875, 5870918.828125, 9034221.875, 9683192.6953125]	
+workload_dict :	['resnet50', 'darknet19', 'resnet18', 'VGG16']	
+chiplet_best :	[4, 9, 1, 2]	------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'resnet18', 'VGG16']
+total_latency :	17927328.6953125	
+latency_nop :	[9375872.0, 11578448.0, 7270356.0, 8244136.0]	
+latency_noc :	[5784933.46875, 5870918.828125, 9034221.875, 9683192.6953125]	
+workload_dict :	['resnet50', 'darknet19', 'resnet18', 'VGG16']	
+chiplet_best :	[4, 1, 2, 9]	
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	8079773564.84375	
+latency_nop :	[9375872.0, 17685184.0, 5793987.125, 405350320.0]	
+latency_noc :	[5784933.46875, 22913303.942871094, 8073979577.71875, 643480219.5800781]	
+workload_dict :	['resnet50', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[1, 12, 2, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16', 'Unet']
+total_latency :	153037482.33007812	
+latency_nop :	[8780060.0, 17685184.0, 44429568.0, 90505192.0]	
+latency_noc :	[11476132.2265625, 22913303.942871094, 71389007.8125, 62532290.330078125]	
+workload_dict :	['resnet50', 'darknet19', 'VGG16', 'Unet']	
+chiplet_best :	[1, 13, 1, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16', 'resnet18']
+total_latency :	20256192.2265625	
+latency_nop :	[8780060.0, 5464585.0, 8244136.0, 7270356.0]	
+latency_noc :	[11476132.2265625, 4767528.80078125, 9683192.6953125, 9034221.875]	
+workload_dict :	['resnet50', 'darknet19', 'VGG16', 'resnet18']	
+chiplet_best :	[1, 5, 9, 1]	------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	8079773564.84375	
+latency_nop :	[9375872.0, 17685184.0, 5793987.125, 405350320.0]	
+latency_noc :	[5784933.46875, 22913303.942871094, 8073979577.71875, 643480219.5800781]	
+workload_dict :	['resnet50', 'darknet19', 'vit', 'Unet']	
+chiplet_best :	[12, 1, 1, 2]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet18', 'darknet19', 'VGG16']
+total_latency :	17449366.828125	
+latency_nop :	[7270356.0, 11578448.0, 7788181.5625]	
+latency_noc :	[9034221.875, 5870918.828125, 7586714.091796875]	
+workload_dict :	['resnet18', 'darknet19', 'VGG16']	
+chiplet_best :	[11, 1, 4]	
+
+17449366.828125	
+18750152.03125
+12315591.09375------------- Planria -----------
+architecture : simba
+nn_name : ['resnet18', 'darknet19', 'VGG16']
+total_latency :	17449366.828125	
+latency_nop :	[7270356.0, 11578448.0, 7788181.5625]	
+latency_noc :	[9034221.875, 5870918.828125, 7586714.091796875]	
+workload_dict :	['resnet18', 'darknet19', 'VGG16']	
+chiplet_best :	[4, 11, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+total_latency :	17927328.6953125	
+latency_nop :	[9375872.0, 5464585.0, 8244136.0]	
+latency_noc :	[5784933.46875, 4767528.80078125, 9683192.6953125]	
+workload_dict :	['resnet50', 'darknet19', 'VGG16']	
+chiplet_best :	[2, 5, 9]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+total_latency :	17927328.6953125	
+latency_nop :	[9375872.0, 5464585.0, 8244136.0]	
+latency_noc :	[5784933.46875, 4767528.80078125, 9683192.6953125]	
+workload_dict :	['resnet50', 'darknet19', 'VGG16']	
+chiplet_best :	[5, 2, 9]	
+
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+total_latency :	13805260.6953125	
+latency_nop :	[4687936.0, 2732292.5, 4122068.0]	
+latency_noc :	[5784933.46875, 4767528.80078125, 9683192.6953125]	
+workload_dict :	['resnet50', 'darknet19', 'VGG16']	
+chiplet_best :	[9, 2, 5]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	475699468341.07666	
+latency_nop :	[269149450240.625, 54755328.0, 237856.0]	
+latency_noc :	[206550018100.45166, 165626772480.0, 412962.890625]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[1, 4, 11]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+total_latency :	693097095168.375	
+latency_nop :	[54755328.0, 413928480768.375, 3635178.0, 200791323840.0]	
+latency_noc :	[165626772480.0, 279168614400.0, 9034221.875, 188975093303.5957]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'vit']	
+chiplet_best :	[2, 9, 1, 4]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+total_latency :	412849872896.0	
+latency_nop :	[115972964544.0, 137976160256.0, 3635178.0, 8422176.0]	
+latency_noc :	[219349303302.75, 274873712640.0, 9034221.875, 64698207408.046875]	
+workload_dict :	['BERT', 'GNMT', 'resnet18', 'vit']	
+chiplet_best :	[8, 3, 4, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	335322267846.75	
+latency_nop :	[77309856426.75, 115972964544.0, 237856.0]	
+latency_noc :	[137974276385.625, 219349303302.75, 412962.890625]	
+workload_dict :	['GNMT', 'BERT', 'ncf']	
+chiplet_best :	[12, 3, 1]	
+
+
+------------- Planria -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+total_latency :	11038256.853515625	
+latency_nop :	[3483936.0, 4724764.0, 2755669.34375]	
+latency_noc :	[5784933.46875, 5870918.828125, 8282587.509765625]	
+workload_dict :	['resnet50', 'darknet19', 'VGG16']	
+chiplet_best :	[10, 2, 4]	
+
+

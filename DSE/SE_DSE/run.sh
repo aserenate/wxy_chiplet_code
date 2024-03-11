@@ -1,0 +1,12 @@
+python3 intra_chiplet_DSE.py \
+    --architecture large_arch \
+    --nn_name lenet \
+    --dataflow os \
+    --chiplet_num_max 16 \
+    --chiplet_num_min 1 \
+    --chiplet_num_gran 1 \
+    --save_all_records 0 \
+    --optimization_objective latency \
+    --iterTimes 10000 \
+    --temporal_level 2 \
+    --multicast_tag 1 

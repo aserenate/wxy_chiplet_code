@@ -1,0 +1,96 @@
+layer1:
+  P: 224
+  Q: 224
+  C: 3
+  K: 64
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer2:
+  P: 224
+  Q: 224
+  C: 64
+  K: 64
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer3:
+  P: 112
+  Q: 112
+  C: 64
+  K: 128
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer4:
+  P: 112
+  Q: 112
+  C: 128
+  K: 128
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer5:
+  P: 56
+  Q: 56
+  C: 128
+  K: 256
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer6:
+  P: 56
+  Q: 56
+  C: 256
+  K: 256
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer8:
+  P: 28
+  Q: 28
+  C: 256
+  K: 512
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer9:
+  P: 28
+  Q: 28
+  C: 512
+  K: 512
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer11:
+  P: 14
+  Q: 14
+  C: 512
+  K: 512
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer_name_dict:
+  layer1: layer1
+  layer2: layer2
+  layer3: layer3
+  layer4: layer4
+  layer5: layer5
+  layer6: layer6
+  layer7: layer6
+  layer8: layer8
+  layer9: layer9
+  layer10: layer9
+  layer11: layer11
+  layer12: layer11
+  layer13: layer11
+

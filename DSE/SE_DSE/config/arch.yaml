@@ -1,0 +1,30 @@
+simba:
+  PE:
+    x: 4
+    y: 4
+  MAC:
+    x: 8
+    y: 8
+  L1: #KB
+    i: 8
+    w: 32
+    o: 3
+  L2: #KB
+    i: 48
+    w: 32
+    o: 48
+large_arch:
+  PE:
+    x: 4
+    y: 4
+  MAC:
+    x: 16
+    y: 16
+  L1: #KB
+    i: 8
+    w: 32
+    o: 4
+  L2: #KB
+    i: 48
+    w: 512
+    o: 64

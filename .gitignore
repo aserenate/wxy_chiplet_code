@@ -1,0 +1,6 @@
+*__pycache__*
+DSE/MN_DSE/multi_nn_result/*
+DSE/MN_DSE/others/multi_nn_result/*
+DSE/SE_DSE/result/*
+simulator/*
+interconnect/dynamic_topology/wire_record/*

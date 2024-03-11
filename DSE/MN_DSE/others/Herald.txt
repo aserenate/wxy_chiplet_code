@@ -1,0 +1,690 @@
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	381029211924.0	
+total_nop :	[3310970.5, 11140372.0]	
+total_noc :	[3034516813.0, 272298566144.0]	
+total_stall :	[12083064048.0, 108719505408.0]	
+workload_list :	[['BERTw1', 'BERTw4', 'BERTw14', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	14357401697.0	
+total_nop :	[4230252.5, 30543117.0]	
+total_noc :	[13319217.0, 14261851710.0]	
+total_stall :	[14161627104.0, 65006870.0]	
+workload_list :	[['resnet18w1', 'resnet18w6', 'darknet19w9', 'vitw5', 'vitw12', 'Unetw4'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w7', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw6', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	13149314059.171875	
+total_nop :	[281051.0625, 43918190.171875]	
+total_noc :	[1181566077.0, 13105395869.0]	
+total_stall :	[0, 0]	
+workload_list :	[['resnet18w1', 'resnet18w6', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w8', 'vitw5', 'vitw6', 'vitw7'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w7', 'darknet19w6', 'darknet19w7', 'darknet19w9', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	272326978176.5	
+total_nop :	[351524.0, 14099818.5]	
+total_noc :	[3020204599.0, 272312878358.0]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw4', 'BERTw5', 'resnet18w4'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	272326864068.5	
+total_nop :	[403168.0, 14048174.5]	
+total_noc :	[3020267063.0, 272312815894.0]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw4', 'BERTw5', 'resnet18w4'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	272326327236.5	
+total_nop :	[663520.0, 13787822.5]	
+total_noc :	[3020543543.0, 272312539414.0]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw4', 'BERTw5', 'BERTw6', 'resnet18w4'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	401668815757.75	
+total_nop :	[3597172.0, 17470802.75]	
+total_noc :	[67950840320.0, 401651344955.0]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw4', 'BERTw5', 'BERTw7', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw16', 'BERTw17', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw33', 'BERTw34', 'ncfw0', 'ncfw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'BERTw3', 'BERTw6', 'BERTw8', 'BERTw11', 'BERTw15', 'BERTw18', 'BERTw19', 'BERTw23', 'BERTw24', 'BERTw28', 'BERTw32', 'BERTw35', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	401666106064.40625	
+total_nop :	[4574688.0, 16120469.40625]	
+total_noc :	[67952199680.0, 401649985595.0]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'ncfw0', 'ncfw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'BERTw3', 'BERTw7', 'BERTw11', 'BERTw15', 'BERTw19', 'BERTw23', 'BERTw27', 'BERTw31', 'BERTw35', 'BERTw39', 'BERTw43', 'BERTw47', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	401666106064.40625	
+total_nop :	[4574688.0, 16120469.40625]	
+total_noc :	[67952199680.0, 401649985595.0]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'ncfw0', 'ncfw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'BERTw3', 'BERTw7', 'BERTw11', 'BERTw15', 'BERTw19', 'BERTw23', 'BERTw27', 'BERTw31', 'BERTw35', 'BERTw39', 'BERTw43', 'BERTw47', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	401666106064.40625	
+total_nop :	[4574688.0, 16120469.40625]	
+total_noc :	[67952199680.0, 401649985595.0]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'ncfw0', 'ncfw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'BERTw3', 'BERTw7', 'BERTw11', 'BERTw15', 'BERTw19', 'BERTw23', 'BERTw27', 'BERTw31', 'BERTw35', 'BERTw39', 'BERTw43', 'BERTw47', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	329856694128.0	
+total_nop :	[271360.0, 10659808.0]	
+total_noc :	[8388608000.0, 329846034320.0]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	272326786155.5	
+total_nop :	[239652.0, 14313018.5]	
+total_noc :	[3019980855.0, 272312473137.0]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw5', 'resnet18w9'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	960059273155.0	
+total_nop :	[2226432.0, 1867008.0, 3454464.0, 697982853995.0]	
+total_noc :	[3020187648.0, 3020021760.0, 3020568576.0, 262076419160.0]	
+total_stall :	[0, 0, 0, 0]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw12', 'BERTw15', 'BERTw17'], ['BERTw2', 'BERTw7', 'BERTw9', 'BERTw11'], ['BERTw3', 'BERTw8', 'BERTw10', 'BERTw13', 'BERTw14', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23'], ['BERTw0', 'BERTw4', 'BERTw5', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[1, 1, 1, 13]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	960703632808.0	
+total_nop :	[1597440.0, 697968435032.0]	
+total_noc :	[8388608000.0, 262735197776.0]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	13331851815.5	
+total_nop :	[2574529.0625, 231387847.5]	
+total_noc :	[1180405575.0, 13100463968.0]	
+total_stall :	[0, 0]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w11', 'resnet18w15', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw5', 'vitw6', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	14544036484.5	
+total_nop :	[17978880.0625, 215983496.5]	
+total_noc :	[6655680.0, 14274213863.0]	
+total_stall :	[14268373509.5, 53839125.0]	
+workload_list :	[['resnet18w1', 'resnet18w9', 'resnet18w15', 'vitw0', 'vitw1', 'vitw7', 'vitw25', 'Unetw8'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	1569515443624.0	
+total_nop :	[1597440.0, 697968435032.0]	
+total_noc :	[8388608000.0, 262735197776.0]	
+total_stall :	[8390205440.0, 608811810816.0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	1569550501379.0	
+total_nop :	[2286336.0, 697988115563.0]	
+total_noc :	[8388850688.0, 262748346456.0]	
+total_stall :	[44660049152.0, 608814039360.0]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw24', 'GNMTw1'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	721548150168.4025	
+total_nop :	[23641329264.0625, 285641990688.5625]	
+total_noc :	[11385583006.560005, 300181421329.44006]	
+total_stall :	[75606816585.4275, 135724738150.40001]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw24', 'GNMTw1', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	16203118840.47749	
+total_nop :	[11487530.75, 178658007.4375]	
+total_noc :	[7531046.880000001, 15987042841.27999]	
+total_stall :	[15944043392.397491, 37417991.75999938]	
+workload_list :	[['resnet18w1', 'resnet18w9', 'resnet18w14', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw7', 'vitw25', 'Unetw8'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	815591180154.081	
+total_nop :	[1105920.0, 214777586776.0]	
+total_noc :	[9479127040.0, 296890773486.8804]	
+total_stall :	[9480232960.0, 303922819891.2]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	511668360262.8811	
+total_nop :	[1105920.0, 214777586776.0]	
+total_noc :	[9479127040.0, 296890773486.8804]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	14860916387.342493	
+total_nop :	[1706432.125, 188439106.0625]	
+total_noc :	[1322096606.8800004, 14672477281.279993]	
+total_stall :	[0, 0]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w12', 'resnet18w15', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w13', 'resnet18w14', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw6', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	588082081371.68	
+total_nop :	[12168538.0, 286174232576.0]	
+total_noc :	[3457529250.3, 301907848795.68]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	588082081371.68	
+total_nop :	[12168538.0, 286174232576.0]	
+total_noc :	[3457529250.3, 301907848795.68]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	146446597549.4375	
+total_nop :	[15761408.0625, 23296278650.4375]	
+total_noc :	[55079680384.0, 114296785020.6]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw3', 'BERTw5', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw65', 'BERTw71', 'GNMTw6'], ['BERTw0', 'BERTw2', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	3918119506.450002	
+total_nop :	[2400853.375, 125007907.25]	
+total_noc :	[332132892.00000006, 3793111599.200002]	
+total_stall :	[0, 0]	
+workload_list :	[['resnet18w1', 'resnet18w5', 'resnet18w8', 'resnet18w14', 'darknet19w18', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w6', 'resnet18w7', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	141809359847.70013	
+total_nop :	[4362240000.0, 67337571032.0]	
+total_noc :	[2369794009.2, 74471788815.70007]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	4300138153.099998	
+total_nop :	[1053144.0, 78395159.0]	
+total_noc :	[7171808.400000003, 4180119960.2999983]	
+total_stall :	[4082249722.6999984, 41623033.80000007]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w16', 'vitw7', 'vitw25', 'Unetw6'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	217790605492.50012	
+total_nop :	[4362240000.0, 67337571032.0]	
+total_noc :	[2369794009.2, 74471788815.70007]	
+total_stall :	[6732034009.2, 75981245644.8]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	4300138153.099998	
+total_nop :	[1053144.0, 78395159.0]	
+total_noc :	[7171808.400000003, 4180119960.2999983]	
+total_stall :	[4082249722.6999984, 41623033.80000007]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w16', 'vitw7', 'vitw25', 'Unetw6'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[2, 14]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	217790605492.50012	
+total_nop :	[4362240000.0, 67337571032.0]	
+total_noc :	[2369794009.2, 74471788815.70007]	
+total_stall :	[6732034009.2, 75981245644.8]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	180400410353.66248	
+total_nop :	[5918061417.4375, 71421022496.0625]	
+total_noc :	[2862091943.1999993, 75047123256.0]	
+total_stall :	[18913003733.887493, 33932264601.600002]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw24', 'GNMTw1', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	146446597549.4375	
+total_nop :	[15761408.0625, 23296278650.4375]	
+total_noc :	[55079680384.0, 114296785020.6]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw3', 'BERTw5', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw65', 'BERTw71', 'GNMTw6'], ['BERTw0', 'BERTw2', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	3916735506.450002	
+total_nop :	[2400997.375, 123623907.25]	
+total_noc :	[332132892.00000006, 3793111599.200002]	
+total_stall :	[0, 0]	
+workload_list :	[['resnet18w1', 'resnet18w5', 'resnet18w8', 'resnet18w14', 'darknet19w18', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w6', 'resnet18w7', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	141809361127.70013	
+total_nop :	[4362240000.0, 67337572312.0]	
+total_noc :	[2369794009.2, 74471788815.70007]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	146467703154.6875	
+total_nop :	[24745301.375, 23318121535.6875]	
+total_noc :	[55079680384.0, 114296785020.6]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw3', 'BERTw5', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw65', 'BERTw71', 'GNMTw6'], ['BERTw0', 'BERTw2', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	3986586333.890625	
+total_nop :	[2400997.375, 123623907.25]	
+total_noc :	[338249178.515625, 3862962426.640625]	
+total_stall :	[0, 0]	
+workload_list :	[['resnet18w1', 'resnet18w5', 'resnet18w8', 'resnet18w14', 'darknet19w18', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w6', 'resnet18w7', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	141528575678.40625	
+total_nop :	[5844161877.4375, 17617094742.8125]	
+total_noc :	[64422637376.171875, 103897301123.41797]	
+total_stall :	[0, 0]	
+workload_list :	[['GNMTw1', 'GNMTw6', 'BERTw5', 'BERTw11', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw59', 'BERTw65', 'BERTw71'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	146226754815.85156	
+total_nop :	[24745301.375, 23318121535.6875]	
+total_noc :	[54280272085.0, 113916844733.78906]	
+total_stall :	[0, 0]	
+workload_list :	[['BERTw1', 'BERTw3', 'BERTw5', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw65', 'BERTw71', 'GNMTw6'], ['BERTw0', 'BERTw2', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	355114365279.51465	
+total_nop :	[4362899328.0, 66805460535.0]	
+total_noc :	[2443571896.5234375, 76547632628.89551]	
+total_stall :	[18084756972.34668, 68408178951.72363]	
+workload_list :	[['BERTw1', 'BERTw6', 'BERTw22', 'BERTw60', 'GNMTw3'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	8666119960.859375	
+total_nop :	[12554538.6875, 113470365.9375]	
+total_noc :	[13176442.968750002, 4188035162.1875]	
+total_stall :	[8083140558.640625, 63108904.609375]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w14', 'darknet19w18', 'vitw7', 'vitw25', 'Unetw7'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	368562839935.625	
+total_nop :	[8641982720.0, 8594194432.0]	
+total_noc :	[175639437247.8125, 40642805760.0]	
+total_stall :	[0.0, 224633880576.0]	
+workload_list :	[['GNMTw0', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11'], ['GNMTw1', 'GNMTw3', 'GNMTw8']]	
+sub_acc :	[8, 8]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	397832525507.9109	
+total_nop :	[7480527203.120001, 22549881270.79995]	
+total_noc :	[64422637376.171875, 103897301123.41797]	
+total_stall :	[85751804968.37875, 139296373968.23895]	
+workload_list :	[['GNMTw1', 'GNMTw6', 'BERTw5', 'BERTw11', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw59', 'BERTw65', 'BERTw71'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	8741166730.471867	
+total_nop :	[16069809.52, 145242068.4]	
+total_noc :	[13176442.968750002, 4188035162.1875]	
+total_stall :	[8076858895.613119, 74612269.29687569]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w14', 'darknet19w18', 'vitw7', 'vitw25', 'Unetw7'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	417439496255.9981	
+total_nop :	[35627117.28000001, 29843242434.16]	
+total_noc :	[60532366442.5, 107664750376.28906]	
+total_stall :	[79895144664.0751, 142423510635.10004]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw11', 'BERTw17', 'BERTw23', 'BERTw29', 'BERTw35', 'BERTw41', 'BERTw47', 'BERTw53', 'BERTw59', 'BERTw65', 'BERTw71', 'GNMTw6'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	552526001426.473	
+total_nop :	[119600578.87999998, 30044195008.88]	
+total_noc :	[57409268620.0, 110788050428.78906]	
+total_stall :	[47250175314.47018, 246165083909.39993]	
+workload_list :	[['BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw7'], ['BERTw0', 'BERTw5', 'BERTw12', 'BERTw18', 'BERTw24', 'BERTw30', 'BERTw36', 'BERTw42', 'BERTw48', 'BERTw54', 'BERTw60', 'BERTw66', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw8', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[6, 10]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	8947373393.556507	
+total_nop :	[4439019.5200000005, 170555102.71999994]	
+total_noc :	[8085324.492187501, 4286307447.7539062]	
+total_stall :	[8338529616.5787, 33648292.608711004]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w15', 'vitw0', 'vitw7', 'vitw25', 'Unetw6'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	492008996080.26465	
+total_nop :	[66086870712.32008, 21997614530.56]	
+total_noc :	[179917627327.8125, 36364615680.0]	
+total_stall :	[0.0, 201355448811.52]	
+workload_list :	[['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11'], ['GNMTw1', 'GNMTw6']]	
+sub_acc :	[8, 8]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['resnet18', 'darknet19', 'vit', 'Unet']
+total_latency :	8947373393.556507	
+total_nop :	[4439019.5200000005, 170555102.71999994]	
+total_noc :	[8085324.492187501, 4286307447.7539062]	
+total_stall :	[8338529616.5787, 33648292.608711004]	
+workload_list :	[['resnet18w1', 'resnet18w7', 'resnet18w15', 'vitw0', 'vitw7', 'vitw25', 'Unetw6'], ['resnet18w0', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw7', 'Unetw8', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : large_arch
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	492008996080.26465	
+total_nop :	[66086870712.32008, 21997614530.56]	
+total_noc :	[179917627327.8125, 36364615680.0]	
+total_stall :	[0.0, 201355448811.52]	
+workload_list :	[['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11'], ['GNMTw1', 'GNMTw6']]	
+sub_acc :	[8, 8]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	3633791932827.4927	
+total_nop :	[2044723.2, 893399596840.9595]	
+total_noc :	[9773056000.0, 306096768502.7031]	
+total_stall :	[0.0, 1234799202140.1602]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	4228276868473.731	
+total_nop :	[275635636301.44006, 1102733178904.6401]	
+total_noc :	[92919823889.86816, 411375265315.60547]	
+total_stall :	[1839723971952.6458, 1200059980033.239]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'GNMTw8', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'resnet18w0', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	4228276868473.731	
+total_nop :	[275635636301.44006, 1102733178904.6401]	
+total_noc :	[92919823889.86816, 411375265315.60547]	
+total_stall :	[1839723971952.6458, 1200059980033.239]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'GNMTw8', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'resnet18w0', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	33149877849.302483	
+total_nop :	[21614756.880000003, 281242576.8]	
+total_noc :	[7090008.65625, 16282727107.390625]	
+total_stall :	[32527380097.266235, 21938480.92125103]	
+workload_list :	[['resnet50w1', 'resnet50w7', 'resnet50w22', 'resnet50w40', 'darknet19w14', 'vitw7', 'vitw25', 'Unetw8'], ['resnet50w0', 'resnet50w2', 'resnet50w3', 'resnet50w4', 'resnet50w5', 'resnet50w6', 'resnet50w8', 'resnet50w9', 'resnet50w10', 'resnet50w11', 'resnet50w12', 'resnet50w13', 'resnet50w14', 'resnet50w15', 'resnet50w16', 'resnet50w17', 'resnet50w18', 'resnet50w19', 'resnet50w20', 'resnet50w21', 'resnet50w23', 'resnet50w24', 'resnet50w25', 'resnet50w26', 'resnet50w27', 'resnet50w28', 'resnet50w29', 'resnet50w30', 'resnet50w31', 'resnet50w32', 'resnet50w33', 'resnet50w34', 'resnet50w35', 'resnet50w36', 'resnet50w37', 'resnet50w38', 'resnet50w39', 'resnet50w41', 'resnet50w42', 'resnet50w43', 'resnet50w44', 'resnet50w45', 'resnet50w46', 'resnet50w47', 'resnet50w48', 'resnet50w49', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'vit', 'Unet']
+total_latency :	16511753388.03125	
+total_nop :	[8413057.5, 109890593.25]	
+total_noc :	[3539803.078125, 8141368754.9453125]	
+total_stall :	[16245880601.453125, 9234691.640625]	
+workload_list :	[['resnet50w1', 'resnet50w7', 'resnet50w22', 'resnet50w39', 'darknet19w14', 'vitw7', 'vitw25', 'Unetw8'], ['resnet50w0', 'resnet50w2', 'resnet50w3', 'resnet50w4', 'resnet50w5', 'resnet50w6', 'resnet50w8', 'resnet50w9', 'resnet50w10', 'resnet50w11', 'resnet50w12', 'resnet50w13', 'resnet50w14', 'resnet50w15', 'resnet50w16', 'resnet50w17', 'resnet50w18', 'resnet50w19', 'resnet50w20', 'resnet50w21', 'resnet50w23', 'resnet50w24', 'resnet50w25', 'resnet50w26', 'resnet50w27', 'resnet50w28', 'resnet50w29', 'resnet50w30', 'resnet50w31', 'resnet50w32', 'resnet50w33', 'resnet50w34', 'resnet50w35', 'resnet50w36', 'resnet50w37', 'resnet50w38', 'resnet50w40', 'resnet50w41', 'resnet50w42', 'resnet50w43', 'resnet50w44', 'resnet50w45', 'resnet50w46', 'resnet50w47', 'resnet50w48', 'resnet50w49', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72', 'Unetw0', 'Unetw1', 'Unetw2', 'Unetw3', 'Unetw4', 'Unetw5', 'Unetw6', 'Unetw7', 'Unetw9', 'Unetw10', 'Unetw11', 'Unetw12', 'Unetw13', 'Unetw14', 'Unetw15', 'Unetw16', 'Unetw17', 'Unetw18', 'Unetw19', 'Unetw20', 'Unetw21', 'Unetw22']]	
+sub_acc :	[4, 12]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	1511127561550.7031	
+total_nop :	[798720.0, 348984217516.0]	
+total_noc :	[4886528000.0, 153048384251.35156]	
+total_stall :	[0.0, 507062358016.0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'VGG16']
+total_latency :	1601613176952.9658	
+total_nop :	[20311078.75, 538405007361.5]	
+total_noc :	[10561206632.285156, 241586337970.45166]	
+total_stall :	[368892018970.24316, 41630486289.0625]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'VGG16', 'vit']
+total_latency :	1601613176952.9658	
+total_nop :	[47295982.0625, 538405007361.5]	
+total_noc :	[55878136948.25928, 241586337970.45166]	
+total_stall :	[368892018970.24316, 41630486289.0625]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'VGG16', 'vit']
+total_latency :	1601613176952.9658	
+total_nop :	[47295982.0625, 538405007361.5]	
+total_noc :	[55878136948.25928, 241586337970.45166]	
+total_stall :	[368892018970.24316, 41630486289.0625]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'VGG16', 'vit']
+total_latency :	1601613176952.9658	
+total_nop :	[47295982.0625, 538405007361.5]	
+total_noc :	[55878136948.25928, 241586337970.45166]	
+total_stall :	[368892018970.24316, 41630486289.0625]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw19', 'vitw20', 'vitw21', 'vitw22', 'vitw23', 'vitw24', 'vitw25', 'vitw26', 'vitw27', 'vitw28', 'vitw29', 'vitw30', 'vitw31', 'vitw32', 'vitw33', 'vitw34', 'vitw35', 'vitw36', 'vitw37', 'vitw38', 'vitw39', 'vitw40', 'vitw41', 'vitw42', 'vitw43', 'vitw44', 'vitw45', 'vitw46', 'vitw47', 'vitw48', 'vitw49', 'vitw50', 'vitw51', 'vitw52', 'vitw53', 'vitw54', 'vitw55', 'vitw56', 'vitw57', 'vitw58', 'vitw59', 'vitw60', 'vitw61', 'vitw62', 'vitw63', 'vitw64', 'vitw65', 'vitw66', 'vitw67', 'vitw68', 'vitw69', 'vitw70', 'vitw71', 'vitw72'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['resnet18', 'darknet19', 'VGG16']
+total_latency :	47430137.22558594	
+total_nop :	[570081.5625, 12662091.1875]	
+total_noc :	[359175.46875, 10712448.270996094]	
+total_stall :	[15029100.979492188, 674368.68359375]	
+workload_list :	[['resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w14', 'darknet19w4', 'darknet19w9', 'darknet19w11', 'VGG16w2'], ['resnet18w0', 'resnet18w5', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w15', 'resnet18w16', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w10', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'darknet19w18', 'VGG16w0', 'VGG16w1', 'VGG16w3', 'VGG16w4', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w8', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[5, 11]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['resnet50', 'darknet19', 'VGG16']
+total_latency :	33735590.30957031	
+total_nop :	[1219224.5625, 1572548.1875, 5245305.46875]	
+total_noc :	[936366.640625, 2514437.373046875, 10789508.120117188]	
+total_stall :	[4694089.9189453125, 13348074.920898438, 1665963.1318359375]	
+workload_list :	[['resnet50w1', 'resnet50w8', 'resnet50w24', 'resnet50w42', 'darknet19w18'], ['resnet50w2', 'resnet50w11', 'resnet50w25', 'resnet50w43', 'resnet50w46', 'VGG16w0', 'VGG16w1', 'VGG16w2', 'VGG16w3', 'VGG16w4', 'VGG16w8'], ['resnet50w0', 'resnet50w3', 'resnet50w4', 'resnet50w5', 'resnet50w6', 'resnet50w7', 'resnet50w9', 'resnet50w10', 'resnet50w12', 'resnet50w13', 'resnet50w14', 'resnet50w15', 'resnet50w16', 'resnet50w17', 'resnet50w18', 'resnet50w19', 'resnet50w20', 'resnet50w21', 'resnet50w22', 'resnet50w23', 'resnet50w26', 'resnet50w27', 'resnet50w28', 'resnet50w29', 'resnet50w30', 'resnet50w31', 'resnet50w32', 'resnet50w33', 'resnet50w34', 'resnet50w35', 'resnet50w36', 'resnet50w37', 'resnet50w38', 'resnet50w39', 'resnet50w40', 'resnet50w41', 'resnet50w44', 'resnet50w45', 'resnet50w47', 'resnet50w48', 'resnet50w49', 'darknet19w0', 'darknet19w1', 'darknet19w2', 'darknet19w3', 'darknet19w4', 'darknet19w5', 'darknet19w6', 'darknet19w7', 'darknet19w8', 'darknet19w9', 'darknet19w10', 'darknet19w11', 'darknet19w12', 'darknet19w13', 'darknet19w14', 'darknet19w15', 'darknet19w16', 'darknet19w17', 'VGG16w5', 'VGG16w6', 'VGG16w7', 'VGG16w9', 'VGG16w10', 'VGG16w11', 'VGG16w12']]	
+sub_acc :	[2, 5, 9]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['GNMT', 'BERT', 'ncf']
+total_latency :	965112552866.7031	
+total_nop :	[399360.0, 174492108758.0]	
+total_noc :	[4886528000.0, 153048384251.35156]	
+total_stall :	[0.0, 310031566848.0]	
+workload_list :	[['GNMTw1'], ['GNMTw0', 'GNMTw2', 'GNMTw3', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'BERTw0', 'BERTw1', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw5', 'BERTw6', 'BERTw7', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw13', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw19', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw25', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw31', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw37', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw43', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw49', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw55', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw61', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw67', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'ncfw0', 'ncfw1', 'ncfw2', 'ncfw3', 'ncfw4', 'ncfw5', 'ncfw6', 'ncfw7', 'ncfw8', 'ncfw9', 'ncfw10', 'ncfw11']]	
+sub_acc :	[3, 13]	
+
+
+------------- Herald -----------
+architecture : simba
+nn_name : ['BERT', 'GNMT', 'resnet18', 'vit']
+total_latency :	1131200822594.9521	
+total_nop :	[19161724.84375, 269203892056.75]	
+total_noc :	[55870833714.95752, 241587057680.10498]	
+total_stall :	[963102149434.4844, 102064410850.96875]	
+workload_list :	[['BERTw1', 'BERTw5', 'BERTw7', 'BERTw13', 'BERTw19', 'BERTw25', 'BERTw31', 'BERTw37', 'BERTw43', 'BERTw49', 'BERTw55', 'BERTw61', 'BERTw67', 'GNMTw3', 'resnet18w0', 'resnet18w1', 'resnet18w2', 'resnet18w3', 'resnet18w4', 'resnet18w5', 'resnet18w6', 'resnet18w7', 'resnet18w8', 'resnet18w9', 'resnet18w10', 'resnet18w11', 'resnet18w12', 'resnet18w13', 'resnet18w14', 'resnet18w15', 'resnet18w16', 'vitw0', 'vitw1', 'vitw2', 'vitw3', 'vitw4', 'vitw5', 'vitw6', 'vitw7', 'vitw8', 'vitw9', 'vitw10', 'vitw11', 'vitw12', 'vitw13', 'vitw14', 'vitw15', 'vitw16', 'vitw17', 'vitw18', 'vitw20', 'vitw21', 'vitw24', 'vitw26', 'vitw27', 'vitw30', 'vitw32', 'vitw33', 'vitw36', 'vitw38', 'vitw39', 'vitw42', 'vitw44', 'vitw45', 'vitw48', 'vitw50', 'vitw51', 'vitw54', 'vitw56', 'vitw57', 'vitw60', 'vitw62', 'vitw63', 'vitw66', 'vitw68', 'vitw69', 'vitw72'], ['BERTw0', 'BERTw2', 'BERTw3', 'BERTw4', 'BERTw6', 'BERTw8', 'BERTw9', 'BERTw10', 'BERTw11', 'BERTw12', 'BERTw14', 'BERTw15', 'BERTw16', 'BERTw17', 'BERTw18', 'BERTw20', 'BERTw21', 'BERTw22', 'BERTw23', 'BERTw24', 'BERTw26', 'BERTw27', 'BERTw28', 'BERTw29', 'BERTw30', 'BERTw32', 'BERTw33', 'BERTw34', 'BERTw35', 'BERTw36', 'BERTw38', 'BERTw39', 'BERTw40', 'BERTw41', 'BERTw42', 'BERTw44', 'BERTw45', 'BERTw46', 'BERTw47', 'BERTw48', 'BERTw50', 'BERTw51', 'BERTw52', 'BERTw53', 'BERTw54', 'BERTw56', 'BERTw57', 'BERTw58', 'BERTw59', 'BERTw60', 'BERTw62', 'BERTw63', 'BERTw64', 'BERTw65', 'BERTw66', 'BERTw68', 'BERTw69', 'BERTw70', 'BERTw71', 'GNMTw0', 'GNMTw1', 'GNMTw2', 'GNMTw4', 'GNMTw5', 'GNMTw6', 'GNMTw7', 'GNMTw8', 'vitw19', 'vitw22', 'vitw23', 'vitw25', 'vitw28', 'vitw29', 'vitw31', 'vitw34', 'vitw35', 'vitw37', 'vitw40', 'vitw41', 'vitw43', 'vitw46', 'vitw47', 'vitw49', 'vitw52', 'vitw53', 'vitw55', 'vitw58', 'vitw59', 'vitw61', 'vitw64', 'vitw65', 'vitw67', 'vitw70', 'vitw71']]	
+sub_acc :	[5, 11]	
+
+

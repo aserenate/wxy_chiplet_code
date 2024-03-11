@@ -1,0 +1,241 @@
+layer1:
+  P: 112
+  Q: 112
+  C: 3
+  K: 64
+  R: 7
+  S: 7
+  stride: 2
+  padding: 3
+layer2:
+  P: 56
+  Q: 56
+  C: 64
+  K: 64
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer3:
+  P: 56
+  Q: 56
+  C: 64
+  K: 64
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer4:
+  P: 56
+  Q: 56
+  C: 64
+  K: 256
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer5:
+  P: 56
+  Q: 56
+  C: 256
+  K: 64
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer11:
+  P: 56
+  Q: 56
+  C: 256
+  K: 128
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer12:
+  P: 28
+  Q: 28
+  C: 128
+  K: 128
+  R: 3
+  S: 3
+  stride: 2
+  padding: 1
+layer13:
+  P: 28
+  Q: 28
+  C: 128
+  K: 512
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer14:
+  P: 28
+  Q: 28
+  C: 512
+  K: 128
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer15:
+  P: 28
+  Q: 28
+  C: 128
+  K: 128
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer23:
+  P: 28
+  Q: 28
+  C: 512
+  K: 256
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer24:
+  P: 14
+  Q: 14
+  C: 256
+  K: 256
+  R: 3
+  S: 3
+  stride: 2
+  padding: 1
+layer25:
+  P: 14
+  Q: 14
+  C: 256
+  K: 1024
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer26:
+  P: 14
+  Q: 14
+  C: 1024
+  K: 256
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer27:
+  P: 14
+  Q: 14
+  C: 256
+  K: 256
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer41:
+  P: 14
+  Q: 14
+  C: 1024
+  K: 512
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer42:
+  P: 7
+  Q: 7
+  C: 512
+  K: 512
+  R: 3
+  S: 3
+  stride: 2
+  padding: 1
+layer43:
+  P: 7
+  Q: 7
+  C: 512
+  K: 2048
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer44:
+  P: 7
+  Q: 7
+  C: 2048
+  K: 512
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer45:
+  P: 7
+  Q: 7
+  C: 512
+  K: 512
+  R: 3
+  S: 3
+  stride: 1
+  padding: 1
+layer50:
+  P: 1
+  Q: 1
+  C: 2048
+  K: 1000
+  R: 1
+  S: 1
+  stride: 1
+  padding: 0
+layer_name_dict:
+  layer1: layer1
+  layer2: layer2
+  layer3: layer3
+  layer4: layer4
+  layer5: layer5
+  layer6: layer3
+  layer7: layer4
+  layer8: layer5
+  layer9: layer3
+  layer10: layer4
+  layer11: layer11
+  layer12: layer12
+  layer13: layer13
+  layer14: layer14
+  layer15: layer15
+  layer16: layer13
+  layer17: layer14
+  layer18: layer15
+  layer19: layer13
+  layer20: layer14
+  layer21: layer15
+  layer22: layer13
+  layer23: layer23
+  layer24: layer24
+  layer25: layer25
+  layer26: layer26
+  layer27: layer27
+  layer28: layer25
+  layer29: layer26
+  layer30: layer27
+  layer31: layer25
+  layer32: layer26
+  layer33: layer27
+  layer34: layer25
+  layer35: layer26
+  layer36: layer27
+  layer37: layer25
+  layer38: layer26
+  layer39: layer27
+  layer40: layer25
+  layer41: layer41
+  layer42: layer42
+  layer43: layer43
+  layer44: layer44
+  layer45: layer45
+  layer46: layer43
+  layer47: layer44
+  layer48: layer45
+  layer49: layer43
+  layer50: layer50
+
