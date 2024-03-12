@@ -7,6 +7,8 @@ size_y = 4
 size_y_extend = 5
 route_TH = 2
 # trace_num = random.randint(20, 40)
+
+out_path = "/home/wangxy/workspace/chiplet/simulator_gem5/random_task_file/"
 def get_nodes():
     nodes = []
     nodes_extend = []
@@ -231,7 +233,7 @@ def custom_topology_trace_out(traces_mesh, traces, file_name):
 if __name__ == '__main__':
     sample_num = 100
     for trace_num in range(30, 39, 10):
-        out_dir = '/home/wangxy/workspace/chiplet/simulator_gem5/random_task_file/trace_{}/'.format(trace_num)
+        out_dir = out_path + 'trace_{}/'.format(trace_num)
         if os.path.exists(out_dir) == False:
             os.mkdir(out_dir)
         out_dir_base = out_dir + "base/"

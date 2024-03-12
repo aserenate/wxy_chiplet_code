@@ -9,8 +9,11 @@ packet_size = link_width * 4
 
 scaleSize = 10
 
+in_path = '/home/wangxy/workspace/chiplet/wxy_chiplet/DSE/SE_DSE/nn_file'
+out_path = "/home/wangxy/workspace/chiplet/simulator_gem5/task_file/"
+
 def read_network(nn_name):
-    path = '/home/wangxy/workspace/chiplet/wxy_chiplet/DSE/SE_DSE/nn_file'
+    path = in_path
     f = open('{}/{}.txt'.format(path, nn_name), 'r')
 
     print("network model ----- " + nn_name + " -------------")
@@ -249,10 +252,10 @@ def generate_trace(size_row, size_col, mem_num, act_size={'pix': 16, 'c':32}, wg
             line += i
         ours_inst_line_dict[node_id] = line 
     
-    out_Dir = "/home/wangxy/workspace/chiplet/simulator_gem5/task_file/"
+    out_Dir = out_path
     if os.path.exists(out_Dir) == False:
         os.mkdir(out_Dir)
-    out_Dir = "/home/wangxy/workspace/chiplet/simulator_gem5/task_file/{}/".format(app_name)
+    out_Dir = out_path + "{}/".format(app_name)
     if os.path.exists(out_Dir) == False:
         os.mkdir(out_Dir)
     
@@ -294,7 +297,7 @@ if __name__ == '__main__':
             wgt_size = {'ci': layer['C'], 'co': layer['K'], 'pix': layer['R']*layer['S']}
             out_size = {'pix': layer['P']*layer['Q'], 'c': layer['K']}
             generate_trace(size_row, size_col, mem_num, act_size, wgt_size, out_size, mapping_pattern, app_name=name, layer_name=layer_name)
-        file = "/home/wangxy/workspace/chiplet/simulator_gem5/task_file/{}/{}.txt".format(name, "layer_name_dict")
+        file = out_path + "{}/{}.txt".format(name, "layer_name_dict")
         f = open(file, 'w')
         print("layer_dict:--------", file=f)
         print(layer_dict, file=f)

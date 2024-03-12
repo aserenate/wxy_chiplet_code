@@ -13,6 +13,8 @@ import openpyxl
 chiplet_parallel_list = ["P_stable", "PK_stable", "K_stable"]
 PE_Frequency = 1000 * 1000 * 1000
 
+ratio = 1 / 1024 # 当Chiplet变多时需要需要一些额外的开销，通过这个ratio来反映
+
 # degub signal
 debug_in_workload_extract = 0
 debug_in_layer_fuse = 0
@@ -373,7 +375,7 @@ def extract_fitness(architecture, nn_name, objective):
         for layer_name in energy.keys():
             fitnesses[layer_name] = {}
             fitnesses[layer_name]["energy"]     = energy[layer_name]
-            fitnesses[layer_name]["latency"]    = latency[layer_name]*(1+c_num*c_num/1024) / 2 # 2GHz
+            fitnesses[layer_name]["latency"]    = latency[layer_name]*(1+c_num*c_num*ratio) / 2 # 2GHz
             fitnesses[layer_name]["edp"]        = edp[layer_name]
             fitnesses[layer_name]["neu_needed"]         = neu_needed[layer_name]
             fitnesses[layer_name]["chiplet_parallel"]   = chiplet_parallel[layer_name]
